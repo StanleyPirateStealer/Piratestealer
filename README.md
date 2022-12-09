@@ -1,5 +1,5 @@
 :calendar: Added Builder. :tada:
-##### [🌍 Telegram](https://t.me/BrooklynPS) -  [:gem: Premium](https://discord.gg/RdRXBnK3ny) - [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Stanley-GF/Arizona#features) 
+##### [🌍 Telegram](https://t.me/BrooklynPS) -  [:gem: Premium](https://discord.gg/RdRXBnK3ny) - [🔧 Builder](https://github.com/StanleyPirateStealer/Piratestealer/releases/tag/builder) - [💡 Features](https://github.com/StanleyPirateStealer/Piratestealer/releases/tag/builder) 
 ### Authors
 - Stanley
 - Bytixo
